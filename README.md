@@ -42,7 +42,7 @@ norm of b  0.894077737112
 None of the important properties of matrix b matches that of the scalar quantity we obtained in prediction - 0.25
 
 
-I will continue analysis of this little experiment but I have belief that the scalar quantity could be relate to original matrix in some way. 
+I will continue analysis of this little experiment but I have belief that the scalar quantity could  relate to original matrix in some way. 
 
 
 
