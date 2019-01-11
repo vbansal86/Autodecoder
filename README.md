@@ -44,7 +44,7 @@ None of the important properties of matrix b matches that of the scalar quantity
 
 I will continue analysis of this little experiment but I have belief that the scalar quantity could  relate to original matrix in some way. 
 
-
+Weights files are added into repo for reference
 
 
 
